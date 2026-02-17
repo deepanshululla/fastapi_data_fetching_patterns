@@ -1,0 +1,1 @@
+# fastapi_data_fetching_patterns
